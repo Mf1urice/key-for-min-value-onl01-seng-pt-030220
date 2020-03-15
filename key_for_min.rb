@@ -11,3 +11,4 @@ name_hash.each do |name, num|
 end
 end
 return smallest_name
+end 
